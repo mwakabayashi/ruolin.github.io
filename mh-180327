@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Masakiのページ</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <h1>yunnan photos</h1>
+  <img src="DSC-0113.img" alt="Dali Night" class="photo">
+  <p class="description">The night in Dali was awesome</p>
+</body>
